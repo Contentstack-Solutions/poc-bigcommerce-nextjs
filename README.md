@@ -23,7 +23,7 @@ We have created an in-depth tutorial on how you can create a Next.js starter web
 [Build Website using Next.js and Contentstack](https://www.contentstack.com/docs/developers/sample-apps/build-a-starter-website-using-next-js-and-contentstack/)
 
 
-**More Resources**
+***More Resources***
 
 Read Contentstack [docs](https://www.contentstack.com/docs/)
 
